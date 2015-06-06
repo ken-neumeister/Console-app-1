@@ -10,7 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Second attempt - git again and again");
+            Console.WriteLine("Second attempt - git doesn't work");
         }
     }
 }
