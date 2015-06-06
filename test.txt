@@ -1,2 +1,4 @@
 this is a test revised again one more time
+merging both lines
 revised file after cloned project modified it on remote
+now I added something
