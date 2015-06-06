@@ -1,0 +1,3 @@
+starting yet a new file,
+first create on github, empty if necessary
+then clone locally, works easier.
